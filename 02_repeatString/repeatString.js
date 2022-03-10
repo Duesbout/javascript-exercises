@@ -1,6 +1,4 @@
-const repeatString = function() {
-
-};
-
+repeatString = "Nice".repeat(3);
+console.log(repeatString);
 // Do not edit below this line
 module.exports = repeatString;
