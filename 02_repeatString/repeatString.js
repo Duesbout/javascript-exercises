@@ -1,4 +1,4 @@
-repeatString = "Nice".repeat(3);
-console.log(repeatString);
+repeatString = "nice".repeat(3);
+    console.log(repeatString);
 // Do not edit below this line
 module.exports = repeatString;
